@@ -225,7 +225,7 @@ void play()
             cout << "Failed :( !!" << endl;
             break;
         }
-        random_move();
+        set_ghost();
     }
 }
 int main()
